@@ -7,6 +7,6 @@ ruby '3.0.4'
 
 gem 'activerecord', '>= 7.0'
 gem 'commander', '~> 4.4'
-# gem 'rake'
+gem 'rake'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
