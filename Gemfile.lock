@@ -19,6 +19,7 @@ GEM
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.8.0)
     minitest (5.16.3)
+    rake (13.0.6)
     sqlite3 (1.5.3)
       mini_portile2 (~> 2.8.0)
     tzinfo (2.0.5)
@@ -30,6 +31,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord (>= 7.0)
   commander (~> 4.4)
+  rake
   sqlite3 (~> 1.4)
 
 RUBY VERSION
